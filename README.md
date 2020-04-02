@@ -9,5 +9,5 @@ This _requires_ Node 0.10.x or greater.
 You must have a `CLOCKTOWER_ROOT` envar set, otherwise nothing will build/work.
 
 ```sh
-$ npm run start
+$ npm run start:static
 ```
